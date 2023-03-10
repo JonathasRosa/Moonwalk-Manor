@@ -1,8 +1,5 @@
 # Moonwalk-Manor
- Moon Walk Manor
-
-# Quiz
-Quiz sobre programação com JavaScript.
+Landing page hotel Moon Walk Manor.
 
 ##
 ![](/img/tela-1.png)
